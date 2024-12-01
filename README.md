@@ -1,3 +1,16 @@
+# Completition of exercises for Submission
+
+This repo is **my submission for Udacity** Self-driving Car Engineer nanodegree Computer Vision / Object detection in urban environment exercise.
+
+Keeping the original repo intact, all submission are in the submission folder.
+It contains:
+- downloaded notebooks and pipeline.config files for the 3 different trained models (in separate folders)
+- submission write up notebook, answering all the questions and including all tensorboard screenshot for metrics of the training of different models
+- output .avi file of the deployed models. Decided to deploy two models, see reasons in write-up.
+
+________________________________________________________________________________________________
+
+
 # Object detection in an urban environment
 
 In this project, you will learn how to train an object detection model using the [Tensorflow Object Detection API](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/index.html) and [AWS Sagemaker](https://aws.amazon.com/sagemaker/). At the end of this project, you will be able to generate videos such as the one below. 
